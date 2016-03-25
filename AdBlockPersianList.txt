@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 201603250001
+! Title: Adblock Persian list
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/Dr-Dev/AdBlockPersianList
+click.sabavision.com
+soft98.ir##.banners
